@@ -1,5 +1,8 @@
 # Citi Bike Maps
 
+![image](https://user-images.githubusercontent.com/88360436/142487942-2d74fcb3-aa34-4eae-94f5-10affc6bc6f7.png)
+
+
 We'll devote a large part of this class to working on a mini project in Leaflet. We'll use the Citi Bike API to get the status and location of every Citi Bike station in New York. We recommend completing the basic version before trying the advanced version of our mini project. The following instructions include both versions.
 
 ## Instructions
