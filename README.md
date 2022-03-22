@@ -4,10 +4,11 @@
 ## About
 This project looks into NYC's micro mobility market with Citi Bike's ride sharing service. The data is from [Citi Bike Trip Data](https://ride.citibikenyc.com/system-data).<br>
 The data was initially loaded onto Jupyter notebook for exploration and cleaning.<br> 
-I noticed a lot of bike trips that were logged were under 5mins or over 24hrs - most likely due to a broken bike or someone forgetting to end their ride.<br> 
+I noticed a lot of bike trips that were logged were under 5mins or over 24hrs.<br>
+Most likely due to a broken bike or someone forgetting to end their ride.<br> 
 I considered these to be insignificant data points and excluded them from the dataset.<br> 
 The cleaned dataset was then loaded onto Tableau for additional exploration and visualizations.<br> 
-The finished product is a interactive dashboard highlighting key aspects to help publicize and improve the bike sharing program.<br> 
+The finished product is an interactive dashboard highlighting key aspects to help publicize and improve the bike sharing program.<br> 
 The storyboard is additional content to help further understand the datasets discoveries.<br>
 ![Citi Bike Dashboard](https://github.com/jssrmrzz/CITI-Bike-NYC-analytics/blob/main/Images/CitiBikeDash.gif)
 [Tableau Citi Bike Dashboard](https://public.tableau.com/views/MarketCampDash/CITICampaign?:language=en-US&:display_count=n&:origin=viz_share_link)
