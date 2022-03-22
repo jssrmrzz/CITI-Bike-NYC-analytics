@@ -4,7 +4,7 @@
 ## About
 ---
 ### This project looks into NYC's micro mobility market with Citi bike sharing service. 
-![prescreenTool](images/CitiBikeDash.gif)
+![Citi Bike Dashboard](images/CitiBikeDash.gif)
 [Tableau Citi Bike Dashboard](https://public.tableau.com/views/MarketCampDash/CITICampaign?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 [Tableau Citi Bike Storyboard](https://public.tableau.com/shared/P5NDP898F?:display_count=n&:origin=viz_share_link)
